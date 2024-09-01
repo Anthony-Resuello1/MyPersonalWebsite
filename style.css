@@ -1983,6 +1983,8 @@ p {
             flex-direction: column; /* Stack the project boxes vertically */
             gap: 2rem; /* Add more space between boxes */
             padding: 0 1rem; /* Padding adjustment for smaller screens */
+            padding-left: 4rem;
+            padding-right: 4rem;
         }
         
         .project2 {
